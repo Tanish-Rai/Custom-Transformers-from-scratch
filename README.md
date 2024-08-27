@@ -21,8 +21,7 @@ For a complete list of requirements, see `requirements.txt`.
 
 ## Installation
 
-1. Clone this repository: git clone https://github.com/yourusername/english-french-transformer.git
-cd english-french-transformer
+1. Clone this repository
 
 2. Install the required packages:
 pip install -r requirements.txt
